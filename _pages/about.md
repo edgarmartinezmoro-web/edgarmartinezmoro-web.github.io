@@ -6,11 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: justify;">
 About me
 ======
 
-I am Associate Professor at the [University of Valladolid](https://www.uva.es), Castilla, Spain. I am a member of the [Institute of Mathematics (IMUVa)](https://www.imuva.uva.es), and I am involved in the [SINGACOM](http://www.singacom.uva.es/) research group. Maybe you are looking for the "real" [Edgar Martínez](https://en.wikipedia.org/wiki/Edgar_Mart%C3%ADnez)?
+I am an Associate Professor at the [University of Valladolid](https://www.uva.es), Castilla, Spain. I am a member of the [Institute of Mathematics (IMUVa)](https://www.imuva.uva.es), and I am involved in the [SINGACOM](http://www.singacom.uva.es/) research group. Maybe you are looking for the "real" [Edgar Martínez](https://en.wikipedia.org/wiki/Edgar_Mart%C3%ADnez)?
 
 **Research interests.** My work is in algebraic coding theory, mainly in the connections between codes, algebraic geometry, and computer algebra (Gröbner bases). Current topics are codes over finite rings (polycyclic, serial and group codes, hulls and duality), Groebner-basis decoding and test sets, generalized Hamming weights and free resolutions, and code-based and group-ring protocols for post-quantum cryptography. In recent years I have moved towards quantum error correction: CSS and CSS-T constructions from self-orthogonal codes, Galois hulls and entanglement-assisted codes, and locally recoverable codes, which together connect with distributed storage and fault-tolerant quantum computing.
 
@@ -34,4 +33,3 @@ PhD students
 | Rene Moiche | [University of Yaoundé I](http://www.uy1.uninet.cm/) | 2018– |
 | Seyma Bodur (co-supervised with [Diego Ruano](http://www.singacom.uva.es/~ruano/)) | [University of Valladolid](https://www.uva.es) | 2020– |
 | Francisco Galluccio (co-supervised with [Maria Chara](https://sites.google.com/view/maria-chara/)) | [Universidad Nacional del Litoral](https://www.unl.edu.ar/) | 2021– |
-</div>
