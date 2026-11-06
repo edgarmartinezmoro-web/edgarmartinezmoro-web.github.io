@@ -3,8 +3,7 @@ permalink: /research/
 title: "Research"
 author_profile: true
 ---
-
-[Google Scholar](https://scholar.google.com/citations?user=SQikZQwAAAAJ) · [Web of Science](https://publons.com/researcher/3264146/edgar-martinez-moro/) · [arXiv preprints](https://arxiv.org/search/?query=martinez-moro&searchtype=all) · [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/657085)
+[MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/657085)
 
 ## Preprints
 
