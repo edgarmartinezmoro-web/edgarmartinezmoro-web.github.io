@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Research"
+title: ""
 author_profile: true
 ---
 [MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/657085)
