@@ -6,7 +6,6 @@ permalink: /publication/2026-galois-hulls-of-constacyclic-codes-over-affine-alge
 date: 2026-12-27
 venue: "Discrete Mathematics"
 link: "https://doi.org/10.1016/j.disc.2025.114750"
-doi: "10.1016/j.disc.2025.114750"
 excerpt: "Co-authored with Indibar Debnath, Habibul Islam and Om Prakash."
 ---
 
