@@ -1,0 +1,14 @@
+# Links in the header of the website, in this order.
+
+main:
+  - title: "Research"
+    url: /research/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Co-workers"
+    url: /coworkers/
+
+  - title: "CV"
+    url: /files/EdgarCV.pdf
