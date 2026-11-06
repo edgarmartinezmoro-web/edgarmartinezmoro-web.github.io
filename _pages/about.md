@@ -15,9 +15,9 @@ redirect_from:
 84 journal articles (70 in JCR journals), 7 book chapters, 11 conference proceedings. 72 co-authors from more than 10 countries.
 
 
-My [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is **3**. You can check [here](/files/grafico.pdf) the different paths from me to Erdős through my co-workers.
+My [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is **3**. You can check [here]({{ site.baseurl }}/files/grafico.pdf) the different paths from me to Erdős through my co-workers.
 
-Here is [my mathematical genealogy](/files/genealogia.pdf), thanks to the [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/).
+Here is [my mathematical genealogy]({{ site.baseurl }}/files/genealogia.pdf), thanks to the [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/).
 
 PhD students
 ======

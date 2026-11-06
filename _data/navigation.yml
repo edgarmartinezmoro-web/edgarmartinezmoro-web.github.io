@@ -1,14 +1,12 @@
-# Links in the header of the website, in this order.
-
+# main links links
 main:
   - title: "Research"
     url: /research/
-
+  - title: "Publications"
+    url: /publications/
   - title: "Teaching"
     url: /teaching/
-
   - title: "Co-workers"
     url: /coworkers/
-
   - title: "CV"
     url: /files/EdgarCV.pdf

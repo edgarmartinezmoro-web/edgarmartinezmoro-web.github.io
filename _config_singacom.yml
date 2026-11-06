@@ -1,0 +1,4 @@
+# Settings for the copy served at https://www.singacom.uva.es/~edgar/
+# Used only by _build-singacom.sh, on top of _config.yml.
+url     : "https://www.singacom.uva.es"
+baseurl : "/~edgar"
