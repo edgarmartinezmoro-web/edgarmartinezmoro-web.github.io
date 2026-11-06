@@ -12,7 +12,10 @@ About me
 
 I am Associate Professor at the [University of Valladolid](https://www.uva.es), Castilla, Spain. I am a member of the [Institute of Mathematics (IMUVa)](https://www.imuva.uva.es), and I am involved in the [SINGACOM](http://www.singacom.uva.es/) research group. Maybe you are looking for the "real" [Edgar Martínez](https://en.wikipedia.org/wiki/Edgar_Mart%C3%ADnez)?
 
-**Research interests.** My main interest is in algebraic coding theory, especially in the connections between codes, algebraic geometry and computer algebra tools (mainly Gröbner bases). This developed from earlier research on association schemes and their computer algebra manipulation, and these topics continue to be important in current research. My most recent work is concerned with polynomial codes over rings, gradient-descent-like decoding methods, minimal codewords in codes, quantum codes, and post-quantum cryptography related to hard coding problems.
+**Research interests.** My work is in algebraic coding theory, mainly in the connections between codes, algebraic geometry, and computer algebra (Gröbner bases). Current topics are codes over finite rings (polycyclic, serial and group codes, hulls and duality), Groebner-basis decoding and test sets, generalized Hamming weights and free resolutions, and code-based and group-ring protocols for post-quantum cryptography. In recent years I have moved towards quantum error correction: CSS and CSS-T constructions from self-orthogonal codes, Galois hulls and entanglement-assisted codes, and locally recoverable codes, which together connect with distributed storage and fault-tolerant quantum computing.
+
+MAIN FIGURES
+84 journal articles (70 in JCR journals), 7 book chapters, 11 conference proceedings. 72 co-authors from more than 10 countries.
 
 [Research and publications](/research/) · [Complete CV](/files/EdgarCV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=SQikZQwAAAAJ)
 
