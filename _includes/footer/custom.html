@@ -1,6 +1,17 @@
 <!-- start custom footer snippets -->
 
-<!-- Support for MathJax -->
+<!-- Styles for the publication pages (abstract and BibTeX blocks) -->
+<style>
+  .pub-abstract { text-align: justify; }
+  .pub-abstract-toggle summary { cursor: pointer; font-size: 0.9em; }
+  .pub-abstract-toggle .pub-abstract { font-size: 0.9em; margin: 0.5em 0 1em 0; }
+  #bibtex { white-space: pre-wrap; font-size: 0.8em; }
+</style>
+
+<!-- Support for MathJax: $...$ and \(...\) for inline math, $$...$$ and \[...\] for display math -->
+<script>
+  window.MathJax = { tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] } };
+</script>
 <script id="MathJax-script" defer src="https://cdn.jsdelivr.net/npm/mathjax@4.0.0/tex-mml-chtml.js"></script>
 
 <!-- end custom footer snippets -->

@@ -38,12 +38,17 @@ Please feel free to ask me for reprints.</p>
     {% if ex != "" %}
     <div class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</div>
     {% endif %}
-    {% if post.doi or post.pdf %}
     <p>
-      {% if post.doi %}DOI: <a href="https://doi.org/{{ post.doi }}">{{ post.doi }}</a>{% endif %}
-      {% if post.doi and post.pdf %} | {% endif %}
-      {% if post.pdf %}<a href="{{ base_path }}{{ post.pdf }}">{{ post.pdflabel | default: "Download PDF" }}</a>{% endif %}
+      {% if post.doi %}DOI: <a href="https://doi.org/{{ post.doi }}">{{ post.doi }}</a> | {% endif %}
+      {% if post.pdf %}<a href="{{ base_path }}{{ post.pdf }}">{{ post.pdflabel | default: "Download PDF" }}</a> | {% endif %}
+      {% if post.bibkey %}<a href="{{ base_path }}/files/bib/{{ post.bibkey }}.bib" download>BibTeX</a> | {% endif %}
+      <a href="{{ base_path }}{{ post.url }}">Details</a>
     </p>
+    {% if post.abstract %}
+    <details class="pub-abstract-toggle">
+      <summary>Abstract</summary>
+      <div class="pub-abstract">{{ post.abstract }}</div>
+    </details>
     {% endif %}
   </article>
 </div>
