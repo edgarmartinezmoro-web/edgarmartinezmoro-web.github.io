@@ -1,0 +1,40 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+{% include base_path %}
+
+<h2 id="moodle">Virtual campus at UVa</h2><hr />
+<p>Check my courses at UVa in <a href="http://campusvirtual.uva.es/">Moodle</a> (password required).</p>
+
+{% comment %} Sections, in this order: category key | heading {% endcomment %}
+{% assign sections = "phd|PhD and postdoc courses;outreach|Bachillerato de excelencia" | split: ";" %}
+
+{% for section in sections %}
+  {% assign key = section | split: "|" | first %}
+  {% assign heading = section | split: "|" | last %}
+  {% assign items = site.teaching | where: "category", key | sort: "date" | reverse %}
+  {% if items.size > 0 %}
+<h2 id="{{ key }}">{{ heading }}</h2><hr />
+    {% for post in items %}
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2 class="archive__item-title" itemprop="headline">
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+    </h2>
+    <p>{{ post.type }}, <i>{{ post.venue }}</i>{% if post.location %}, {{ post.location }}{% endif %}{% if post.when %}, {{ post.when }}{% endif %}</p>
+    {% if post.excerpt %}
+    <div class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</div>
+    {% endif %}
+    <p>
+      {% for l in post.links %}{% if l.url contains "://" %}<a href="{{ l.url }}">{{ l.label }}</a>{% else %}<a href="{{ base_path }}{{ l.url }}">{{ l.label }}</a>{% endif %} | {% endfor %}
+      <a href="{{ base_path }}{{ post.url }}">Details</a>
+    </p>
+  </article>
+</div>
+    {% endfor %}
+  {% endif %}
+{% endfor %}
