@@ -7,11 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-<h2 id="moodle">Virtual campus at UVa</h2><hr />
-<p>Check my courses at UVa in <a href="http://campusvirtual.uva.es/">Moodle</a> (password required).</p>
-
 {% comment %} Sections, in this order: category key | heading {% endcomment %}
-{% assign sections = "phd|PhD and postdoc courses;outreach|Bachillerato de excelencia" | split: ";" %}
+{% assign sections = "undergrad|Undergraduate courses at UVa;phd|PhD and postdoc courses;outreach|Bachillerato de excelencia" | split: ";" %}
 
 {% for section in sections %}
   {% assign key = section | split: "|" | first %}
