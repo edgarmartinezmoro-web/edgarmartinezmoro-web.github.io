@@ -18,14 +18,3 @@ redirect_from:
 My [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is **3**. You can check [here]({{ site.baseurl }}/files/grafico.pdf) the different paths from me to Erdős through my co-workers.
 
 Here is [my mathematical genealogy]({{ site.baseurl }}/files/genealogia.pdf), thanks to the [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/).
-
-PhD students
-======
-
-| Student | University | Years |
-|---|---|---|
-| [Irene Márquez-Corbella](http://www.singacom.uva.es/~iremarquez/) (co-supervised with [Antonio Campillo](http://www.singacom.uva.es/campillo/)) | [University of Valladolid](https://www.uva.es) | 2009–2013 |
-| Lamia Bouzara (co-supervised with [Kenza Guenda](https://scholar.google.fr/citations?user=KaM7KbEAAAAJ&hl=fr)) | [USTHB](http://www.usthb.dz/fmath/) | 2017–2022 |
-| Sarra Talbi (co-supervised with [Aicha Batoul](https://scholar.google.fr/citations?user=oHSU6osAAAAJ&hl=fr)) | [USTHB](http://www.usthb.dz/fmath/) | 2018–2022 |
-| Seyma Bodur (co-supervised with [Diego Ruano](http://www.singacom.uva.es/~ruano/)) | [University of Valladolid](https://www.uva.es) | 2020–2026 |
-| Francisco Galluccio (co-supervised with [Maria Chara](https://sites.google.com/view/maria-chara/)) | [Universidad Nacional del Litoral](https://www.unl.edu.ar/) | 2021–2026 |

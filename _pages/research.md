@@ -29,9 +29,3 @@ Quintana, M. B.; Trenard, M. B.; Garcia-Gonzalez, C.; Martinez, E. **The partial
 Master thesis [Presentaciones binomiales de programas lineales modulares: Aplicaciones a los códigos correctores de errores]({{ site.baseurl }}/files/deairene.pdf) (in Spanish) 07/2010. Calificación: Sobresaliente (9,5).
 
 PhD Thesis: July 2013 [Combinatorial Commutative Algebra Approach to Complete Decoding](http://www.singacom.uva.es/~iremarquez/Thesis-Irene.pdf). Sobresaliente Cum Laude.
-
-
-## PhD Thesis
-
-I quite doubt it, but maybe someone is interested in my PhD thesis: Estructura combinatoria de métricas no Hamming (in Spanish) 07/2001. Advisor: Dr. Fco. Javier Galán Simón. Calificación: Sobresaliente "cum laude".
-[Download (zip)]({{ site.baseurl }}/files/tesis.zip)

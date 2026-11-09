@@ -26,9 +26,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Edgar Martínez-Moro"
   pronouns         : # example: "she/her"  
-  bio              : "Institute of Mathematics (IMUVa). SINGACOM research group."
+  bio              : "Institute of Mathematics (<a href='https://www.imuva.uva.es'>IMUVa</a>). <a href='http://www.singacom.uva.es/'>SINGACOM</a> research group."
   location         : "Valladolid, Spain"
-  employer         : "University of Valladolid"
+  employer         : "<a href='https://www.uva.es'>University of Valladolid</a>"
   uri              : # URL
   email            : "edgar.martinez@uva.es" 
 
