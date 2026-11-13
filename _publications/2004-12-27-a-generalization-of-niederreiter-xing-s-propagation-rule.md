@@ -2,7 +2,7 @@
 title: "A generalization of Niederreiter-Xing's propagation rule and its commutativity with duality"
 collection: publications
 category: manuscripts
-permalink: /publication/2004-a-generalization-of-niederreiter-xing-s-propagation-rule
+permalink: /publication/2004-a-generalization-of-niederreiter-xing-s-propagation-rule/
 date: 2004-12-27
 venue: "IEEE Transactions on Information Theory 50(4), 701–702"
 doi: "10.1109/TIT.2004.825036"

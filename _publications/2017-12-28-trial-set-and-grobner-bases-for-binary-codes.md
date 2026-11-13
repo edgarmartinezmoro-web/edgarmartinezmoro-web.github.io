@@ -2,7 +2,7 @@
 title: "Trial set and Gröbner bases for binary codes"
 collection: publications
 category: conferences
-permalink: /publication/2017-trial-set-and-grobner-bases-for-binary-codes
+permalink: /publication/2017-trial-set-and-grobner-bases-for-binary-codes/
 date: 2017-12-28
 venue: "Applications of Computer Algebra, Springer Proceedings in Mathematics & Statistics"
 doi: "10.1007/978-3-319-56932-1_3"

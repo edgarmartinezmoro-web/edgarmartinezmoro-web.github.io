@@ -2,7 +2,7 @@
 title: "On the structure of repeated-root polycyclic codes over local rings"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-on-the-structure-of-repeated-root-polycyclic-codes
+permalink: /publication/2024-on-the-structure-of-repeated-root-polycyclic-codes/
 date: 2024-12-25
 venue: "Discrete Mathematics"
 doi: "10.1016/j.disc.2023.113715"

@@ -3,7 +3,7 @@ title: "Bases de Gröbner: aplicaciones a la codificación"
 collection: teaching
 category: phd
 type: "PhD course"
-permalink: /teaching/evm-bases-groebner
+permalink: /teaching/evm-bases-groebner/
 venue: "Escuela Venezolana de Matemáticas"
 location: "Mérida, Venezuela"
 when: "September 2007"

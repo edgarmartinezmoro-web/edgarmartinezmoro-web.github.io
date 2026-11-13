@@ -2,7 +2,7 @@
 title: "On general self-orthogonal matrix-product codes associated with Toeplitz matrices"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-on-general-self-orthogonal-matrix-product-codes-associated
+permalink: /publication/2025-on-general-self-orthogonal-matrix-product-codes-associated/
 date: 2025-12-24
 venue: "Cryptography and Communications"
 doi: "10.1007/s12095-024-00763-6"

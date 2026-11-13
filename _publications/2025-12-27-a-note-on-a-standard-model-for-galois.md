@@ -2,7 +2,7 @@
 title: "A note on a standard model for Galois rings"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-a-note-on-a-standard-model-for-galois
+permalink: /publication/2025-a-note-on-a-standard-model-for-galois/
 date: 2025-12-27
 venue: "Applicable Algebra in Engineering, Communication and Computing"
 doi: "10.1007/s00200-023-00612-8"

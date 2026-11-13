@@ -3,7 +3,7 @@ title: "Introducción a los anillos finitos y sus aplicaciones"
 collection: teaching
 category: phd
 type: "PhD course"
-permalink: /teaching/anillos-finitos
+permalink: /teaching/anillos-finitos/
 venue: "Escuela Venezolana de Matemáticas and EMALCA"
 location: "Mérida, Venezuela"
 when: "1–5 September 2014"

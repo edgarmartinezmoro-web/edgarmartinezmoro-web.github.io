@@ -2,7 +2,7 @@
 title: "Majority-logic-decodable cyclic arithmetic-modular AN-codes in 1, 2 and L steps"
 collection: publications
 category: conferences
-permalink: /publication/2001-majority-logic-decodable-cyclic-arithmetic-modular-an-codes
+permalink: /publication/2001-majority-logic-decodable-cyclic-arithmetic-modular-an-codes/
 date: 2001-12-28
 venue: "Cryptography and Coding, Lecture Notes in Computer Science 2260, 128–137"
 doi: "10.1007/3-540-45325-3_12"

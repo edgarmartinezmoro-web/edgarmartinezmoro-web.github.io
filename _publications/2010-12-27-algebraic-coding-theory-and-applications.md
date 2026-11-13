@@ -2,7 +2,7 @@
 title: "Algebraic Coding Theory and Applications"
 collection: publications
 category: edited
-permalink: /publication/2010-algebraic-coding-theory-and-applications
+permalink: /publication/2010-algebraic-coding-theory-and-applications/
 date: 2010-12-27
 venue: "Special issue of the Journal of Symbolic Computation 45(7), 721–824"
 bibkey: "Campillo2010Algebraic"

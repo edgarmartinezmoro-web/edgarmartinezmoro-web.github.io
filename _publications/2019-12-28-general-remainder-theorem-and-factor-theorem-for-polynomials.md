@@ -2,7 +2,7 @@
 title: "General remainder theorem and factor theorem for polynomials over non-commutative coefficient rings"
 collection: publications
 category: manuscripts
-permalink: /publication/2019-general-remainder-theorem-and-factor-theorem-for-polynomials
+permalink: /publication/2019-general-remainder-theorem-and-factor-theorem-for-polynomials/
 date: 2019-12-28
 venue: "International Journal of Mathematical Education in Science and Technology"
 doi: "10.1080/0020739X.2019.1676926"

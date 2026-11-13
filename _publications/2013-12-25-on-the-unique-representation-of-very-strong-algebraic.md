@@ -2,7 +2,7 @@
 title: "On the unique representation of very strong algebraic geometry codes"
 collection: publications
 category: manuscripts
-permalink: /publication/2013-on-the-unique-representation-of-very-strong-algebraic
+permalink: /publication/2013-on-the-unique-representation-of-very-strong-algebraic/
 date: 2013-12-25
 venue: "Designs, Codes and Cryptography"
 doi: "10.1007/s10623-012-9758-3"

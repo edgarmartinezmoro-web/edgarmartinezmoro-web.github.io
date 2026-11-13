@@ -2,7 +2,7 @@
 title: "The symmetric group given by a Gröbner basis"
 collection: publications
 category: manuscripts
-permalink: /publication/2006-the-symmetric-group-given-by-a-grobner-basis
+permalink: /publication/2006-the-symmetric-group-given-by-a-grobner-basis/
 date: 2006-12-26
 venue: "Journal of Pure and Applied Algebra 207(1), 149–154"
 doi: "10.1016/j.jpaa.2005.09.011"

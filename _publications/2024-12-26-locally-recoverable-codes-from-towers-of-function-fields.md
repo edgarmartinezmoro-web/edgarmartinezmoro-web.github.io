@@ -2,7 +2,7 @@
 title: "Locally recoverable codes from towers of function fields"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-locally-recoverable-codes-from-towers-of-function-fields
+permalink: /publication/2024-locally-recoverable-codes-from-towers-of-function-fields/
 date: 2024-12-26
 venue: "Finite Fields and Their Applications"
 doi: "10.1016/j.ffa.2023.102359"

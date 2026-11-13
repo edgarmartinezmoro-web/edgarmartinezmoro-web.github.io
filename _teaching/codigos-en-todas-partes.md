@@ -3,7 +3,7 @@ title: "¡¡Códigos en todas partes!!"
 collection: teaching
 category: outreach
 type: "Talk"
-permalink: /teaching/codigos-en-todas-partes
+permalink: /teaching/codigos-en-todas-partes/
 venue: "Bachillerato de Excelencia"
 date: 2020-01-01
 excerpt: "Talk for high-school students on the error-detecting codes we use every day (ISBN, NIF…), with live computations in Sage."

@@ -2,7 +2,7 @@
 title: "Advances in Algebraic Geometry Codes"
 collection: publications
 category: books
-permalink: /publication/2008-advances-in-algebraic-geometry-codes
+permalink: /publication/2008-advances-in-algebraic-geometry-codes/
 date: 2008-12-26
 venue: "Series on Coding Theory and Cryptology 5, World Scientific"
 doi: "10.1142/6767"

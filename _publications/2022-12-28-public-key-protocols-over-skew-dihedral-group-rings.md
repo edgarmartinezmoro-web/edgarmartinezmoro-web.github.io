@@ -2,7 +2,7 @@
 title: "Public Key Protocols over Skew Dihedral Group Rings"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-public-key-protocols-over-skew-dihedral-group-rings
+permalink: /publication/2022-public-key-protocols-over-skew-dihedral-group-rings/
 date: 2022-12-28
 venue: "Mathematics"
 doi: "10.3390/math10183343"

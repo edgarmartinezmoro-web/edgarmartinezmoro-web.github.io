@@ -2,7 +2,7 @@
 title: "Private Information Retrieval Schemes Using Cyclic Codes"
 collection: publications
 category: conferences
-permalink: /publication/2023-private-information-retrieval-schemes-using-cyclic-codes
+permalink: /publication/2023-private-information-retrieval-schemes-using-cyclic-codes/
 date: 2023-12-26
 venue: "WAIFI 2022, Lecture Notes in Computer Science 13638"
 doi: "10.1007/978-3-031-22944-2_12"

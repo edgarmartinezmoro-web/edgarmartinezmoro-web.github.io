@@ -2,7 +2,7 @@
 title: "Algebraic Geometry Modeling in Information Theory"
 collection: publications
 category: books
-permalink: /publication/2013-algebraic-geometry-modeling-in-information-theory
+permalink: /publication/2013-algebraic-geometry-modeling-in-information-theory/
 date: 2013-12-22
 venue: "Series on Coding Theory and Cryptology 8, World Scientific"
 doi: "10.1142/8049"

@@ -2,7 +2,7 @@
 title: "A Gröbner Representation for Linear Codes"
 collection: publications
 category: conferences
-permalink: /publication/2007-a-grobner-representation-for-linear-codes
+permalink: /publication/2007-a-grobner-representation-for-linear-codes/
 date: 2007-12-26
 venue: "Advances in Coding Theory and Cryptography, World Scientific, 17–32"
 doi: "10.1142/9789812772022_0002"

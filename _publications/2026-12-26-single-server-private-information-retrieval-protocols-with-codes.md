@@ -2,7 +2,7 @@
 title: "Single server private information retrieval protocols with codes over rings"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-single-server-private-information-retrieval-protocols-with-codes
+permalink: /publication/2026-single-server-private-information-retrieval-protocols-with-codes/
 date: 2026-12-26
 venue: "Journal of Algebra and Its Applications"
 doi: "10.1142/S0219498825410129"

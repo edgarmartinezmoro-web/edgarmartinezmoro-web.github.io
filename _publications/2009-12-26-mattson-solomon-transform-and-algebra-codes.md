@@ -2,7 +2,7 @@
 title: "Mattson Solomon transform and algebra codes"
 collection: publications
 category: conferences
-permalink: /publication/2009-mattson-solomon-transform-and-algebra-codes
+permalink: /publication/2009-mattson-solomon-transform-and-algebra-codes/
 date: 2009-12-26
 venue: "Gröbner Bases, Coding, and Cryptography, Springer, 385–388"
 doi: "10.1007/978-3-540-93806-4_25"

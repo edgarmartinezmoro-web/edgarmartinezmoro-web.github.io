@@ -2,7 +2,7 @@
 title: "Computing sharp recovery structures for locally recoverable codes"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-computing-sharp-recovery-structures-for-locally-recoverable-codes
+permalink: /publication/2020-computing-sharp-recovery-structures-for-locally-recoverable-codes/
 date: 2020-12-27
 venue: "Designs, Codes and Cryptography"
 doi: "10.1007/s10623-020-00746-7"

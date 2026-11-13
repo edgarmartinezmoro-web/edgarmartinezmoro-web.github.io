@@ -2,7 +2,7 @@
 title: "An Introduction to LDPC Codes"
 collection: publications
 category: conferences
-permalink: /publication/2013-an-introduction-to-ldpc-codes
+permalink: /publication/2013-an-introduction-to-ldpc-codes/
 date: 2013-12-26
 venue: "Algebraic Geometry Modeling in Information Theory, World Scientific Series on Coding Theory and Cryptology 8"
 doi: "10.1142/9789814335768_0004"

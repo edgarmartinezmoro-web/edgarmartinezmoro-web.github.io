@@ -2,7 +2,7 @@
 title: "Galois correspondence on linear codes over finite chain rings"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-galois-correspondence-on-linear-codes-over-finite-chain
+permalink: /publication/2020-galois-correspondence-on-linear-codes-over-finite-chain/
 date: 2020-12-25
 venue: "Discrete Mathematics"
 doi: "10.1016/j.disc.2019.111653"

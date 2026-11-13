@@ -2,7 +2,7 @@
 title: "Computer algebra in coding theory and cryptography"
 collection: publications
 category: edited
-permalink: /publication/2015-computer-algebra-in-coding-theory-and-cryptography
+permalink: /publication/2015-computer-algebra-in-coding-theory-and-cryptography/
 date: 2015-12-26
 venue: "Special issue of Designs, Codes and Cryptography 76(1)"
 doi: "10.1007/s10623-015-0041-2"

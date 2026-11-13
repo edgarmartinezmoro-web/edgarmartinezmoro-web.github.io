@@ -2,7 +2,7 @@
 title: "Additive cyclic codes over finite commutative chain rings"
 collection: publications
 category: manuscripts
-permalink: /publication/2018-additive-cyclic-codes-over-finite-commutative-chain-rings
+permalink: /publication/2018-additive-cyclic-codes-over-finite-commutative-chain-rings/
 date: 2018-12-26
 venue: "Discrete Mathematics"
 doi: "10.1016/j.disc.2018.03.016"

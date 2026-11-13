@@ -2,7 +2,7 @@
 title: "Computing Coset Leaders and Leader Codewords of Binary Codes"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-computing-coset-leaders-and-leader-codewords-of-binary
+permalink: /publication/2015-computing-coset-leaders-and-leader-codewords-of-binary/
 date: 2015-12-25
 venue: "Journal of Algebra and Its Applications 14(8)"
 doi: "10.1142/S0219498815501285"

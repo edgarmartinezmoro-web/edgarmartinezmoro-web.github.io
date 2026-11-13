@@ -2,7 +2,7 @@
 title: "On polycyclic codes over a finite chain ring"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-on-polycyclic-codes-over-a-finite-chain-ring
+permalink: /publication/2020-on-polycyclic-codes-over-a-finite-chain-ring/
 date: 2020-12-24
 venue: "Advances in Mathematics of Communications"
 doi: "10.3934/amc.2020028"

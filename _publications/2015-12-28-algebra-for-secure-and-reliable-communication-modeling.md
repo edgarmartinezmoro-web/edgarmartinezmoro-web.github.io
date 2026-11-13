@@ -2,7 +2,7 @@
 title: "Algebra for Secure and Reliable Communication Modeling"
 collection: publications
 category: edited
-permalink: /publication/2015-algebra-for-secure-and-reliable-communication-modeling
+permalink: /publication/2015-algebra-for-secure-and-reliable-communication-modeling/
 date: 2015-12-28
 venue: "Contemporary Mathematics 642, American Mathematical Society"
 doi: "10.1090/conm/642"

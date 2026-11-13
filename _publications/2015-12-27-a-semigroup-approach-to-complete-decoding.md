@@ -2,7 +2,7 @@
 title: "A Semigroup Approach to Complete Decoding"
 collection: publications
 category: conferences
-permalink: /publication/2015-a-semigroup-approach-to-complete-decoding
+permalink: /publication/2015-a-semigroup-approach-to-complete-decoding/
 date: 2015-12-27
 venue: "Algebra for Secure and Reliable Communication Modeling, Contemporary Mathematics 642, American Mathematical Society"
 doi: "10.1090/conm/642/12880"

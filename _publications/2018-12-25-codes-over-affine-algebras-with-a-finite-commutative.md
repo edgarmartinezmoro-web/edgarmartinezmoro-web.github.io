@@ -2,7 +2,7 @@
 title: "Codes over affine algebras with a finite commutative chain coefficient ring"
 collection: publications
 category: manuscripts
-permalink: /publication/2018-codes-over-affine-algebras-with-a-finite-commutative
+permalink: /publication/2018-codes-over-affine-algebras-with-a-finite-commutative/
 date: 2018-12-25
 venue: "Finite Fields and Their Applications"
 doi: "10.1016/j.ffa.2017.09.008"

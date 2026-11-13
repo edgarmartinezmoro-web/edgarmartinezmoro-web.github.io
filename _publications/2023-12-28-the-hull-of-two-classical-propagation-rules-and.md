@@ -2,7 +2,7 @@
 title: "The hull of two classical propagation rules and their applications"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-the-hull-of-two-classical-propagation-rules-and
+permalink: /publication/2023-the-hull-of-two-classical-propagation-rules-and/
 date: 2023-12-28
 venue: "IEEE Transactions on Information Theory"
 doi: "10.1109/TIT.2023.3288092"

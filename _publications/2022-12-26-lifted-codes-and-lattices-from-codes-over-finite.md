@@ -2,7 +2,7 @@
 title: "Lifted codes and lattices from codes over finite chain rings"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-lifted-codes-and-lattices-from-codes-over-finite
+permalink: /publication/2022-lifted-codes-and-lattices-from-codes-over-finite/
 date: 2022-12-26
 venue: "Cryptography and Communications"
 doi: "10.1007/s12095-022-00568-5"

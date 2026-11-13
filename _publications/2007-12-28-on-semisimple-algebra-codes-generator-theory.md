@@ -2,7 +2,7 @@
 title: "On semisimple algebra codes: generator theory"
 collection: publications
 category: manuscripts
-permalink: /publication/2007-on-semisimple-algebra-codes-generator-theory
+permalink: /publication/2007-on-semisimple-algebra-codes-generator-theory/
 date: 2007-12-28
 venue: "Algebra and Discrete Mathematics, no. 3"
 bibkey: "MartinezMoro2007Semisimple"

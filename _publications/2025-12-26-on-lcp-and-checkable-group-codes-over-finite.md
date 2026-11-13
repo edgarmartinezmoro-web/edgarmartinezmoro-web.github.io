@@ -2,7 +2,7 @@
 title: "On LCP and checkable group codes over finite non-commutative Frobenius rings"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-on-lcp-and-checkable-group-codes-over-finite
+permalink: /publication/2025-on-lcp-and-checkable-group-codes-over-finite/
 date: 2025-12-26
 venue: "Journal of Discrete Mathematical Sciences and Cryptography"
 doi: "10.47974/JDMSC-2187"

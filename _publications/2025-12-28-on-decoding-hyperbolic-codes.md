@@ -2,7 +2,7 @@
 title: "On decoding hyperbolic codes"
 collection: publications
 category: conferences
-permalink: /publication/2025-on-decoding-hyperbolic-codes
+permalink: /publication/2025-on-decoding-hyperbolic-codes/
 date: 2025-12-28
 venue: "WAIFI 2024, Lecture Notes in Computer Science"
 doi: "10.1007/978-3-031-81824-0_3"

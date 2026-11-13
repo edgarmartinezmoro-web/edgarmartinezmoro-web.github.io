@@ -2,7 +2,7 @@
 title: "Abelian and consta-Abelian polyadic codes over affine algebras with a finite commutative chain coefficient ring"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-abelian-and-consta-abelian-polyadic-codes-over-affine
+permalink: /publication/2024-abelian-and-consta-abelian-polyadic-codes-over-affine/
 date: 2024-12-28
 venue: "Cryptography and Communications"
 doi: "10.1007/s12095-024-00707-0"

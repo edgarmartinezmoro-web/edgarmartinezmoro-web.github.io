@@ -2,7 +2,7 @@
 title: "Vardøhus Codes: Polar Codes Based on Castle Curves Kernels"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-vardhus-codes-polar-codes-based-on-castle-curves
+permalink: /publication/2020-vardhus-codes-polar-codes-based-on-castle-curves/
 date: 2020-12-23
 venue: "IEEE Transactions on Information Theory"
 doi: "10.1109/TIT.2019.2932405"

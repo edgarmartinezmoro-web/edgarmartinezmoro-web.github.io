@@ -2,7 +2,7 @@
 title: "On the ideal associated to a linear code"
 collection: publications
 category: manuscripts
-permalink: /publication/2016-on-the-ideal-associated-to-any-linear-code
+permalink: /publication/2016-on-the-ideal-associated-to-any-linear-code/
 date: 2016-12-28
 venue: "Advances in Mathematics of Communications"
 doi: "10.3934/amc.2016003"

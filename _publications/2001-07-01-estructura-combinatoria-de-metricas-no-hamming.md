@@ -2,7 +2,7 @@
 title: "Estructura combinatoria de métricas no Hamming"
 collection: publications
 category: thesis
-permalink: /publication/2001-estructura-combinatoria-de-metricas-no-hamming
+permalink: /publication/2001-estructura-combinatoria-de-metricas-no-hamming/
 date: 2001-07-01
 venue: "PhD thesis, Universidad de Valladolid"
 pdf: "/files/tesis.zip"

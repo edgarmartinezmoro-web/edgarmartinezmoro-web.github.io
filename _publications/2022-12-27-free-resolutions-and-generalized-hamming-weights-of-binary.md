@@ -2,7 +2,7 @@
 title: "Free Resolutions and Generalized Hamming Weights of Binary Linear Codes"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-free-resolutions-and-generalized-hamming-weights-of-binary
+permalink: /publication/2022-free-resolutions-and-generalized-hamming-weights-of-binary/
 date: 2022-12-27
 venue: "Mathematics"
 doi: "10.3390/math10122079"

@@ -2,7 +2,7 @@
 title: "Polycyclic codes over serial rings and their annihilator CSS construction"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-polycyclic-codes-over-serial-rings-and-their-annihilator
+permalink: /publication/2025-polycyclic-codes-over-serial-rings-and-their-annihilator/
 date: 2025-12-25
 venue: "Cryptography and Communications"
 doi: "10.1007/s12095-024-00757-4"

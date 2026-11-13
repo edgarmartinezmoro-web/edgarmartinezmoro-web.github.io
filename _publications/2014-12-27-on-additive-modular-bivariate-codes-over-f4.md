@@ -2,7 +2,7 @@
 title: "On additive modular bivariate codes over F<sub>4</sub>"
 collection: publications
 category: manuscripts
-permalink: /publication/2014-on-additive-modular-bivariate-codes-over-f4
+permalink: /publication/2014-on-additive-modular-bivariate-codes-over-f4/
 date: 2014-12-27
 venue: "Finite Fields and Their Applications 28, 199–213"
 doi: "10.1016/j.ffa.2014.02.007"

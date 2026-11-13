@@ -2,7 +2,7 @@
 title: "Linear complementary pair of group codes over finite chain rings"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-linear-complementary-pair-of-group-codes-over-finite
+permalink: /publication/2020-linear-complementary-pair-of-group-codes-over-finite/
 date: 2020-12-28
 venue: "Designs, Codes and Cryptography"
 doi: "10.1007/s10623-020-00792-1"

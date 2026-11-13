@@ -2,7 +2,7 @@
 title: "On the generalized Hamming weights of hyperbolic codes"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-on-the-generalized-hamming-weights-of-hyperbolic-codes
+permalink: /publication/2024-on-the-generalized-hamming-weights-of-hyperbolic-codes/
 date: 2024-12-24
 venue: "Journal of Algebra and Its Applications"
 doi: "10.1142/S0219498825500628"

@@ -2,7 +2,7 @@
 title: "A General Framework for Applying FGLM Techniques to Linear Codes"
 collection: publications
 category: conferences
-permalink: /publication/2006-a-general-framework-for-applying-fglm-techniques-to
+permalink: /publication/2006-a-general-framework-for-applying-fglm-techniques-to/
 date: 2006-12-28
 venue: "AAECC-16, Lecture Notes in Computer Science 3857, 76–86"
 doi: "10.1007/11617983_7"

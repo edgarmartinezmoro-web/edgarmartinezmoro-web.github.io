@@ -3,7 +3,7 @@ title: "EKU Coding Theory Seminar"
 collection: teaching
 category: phd
 type: "Seminar series"
-permalink: /teaching/eku-coding-theory-seminar
+permalink: /teaching/eku-coding-theory-seminar/
 venue: "Eastern Kentucky University"
 location: "Richmond, KY, USA"
 when: "Spring semester 2013"

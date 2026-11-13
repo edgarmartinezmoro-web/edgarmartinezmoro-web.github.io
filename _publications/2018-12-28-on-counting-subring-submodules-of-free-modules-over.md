@@ -2,7 +2,7 @@
 title: "On counting subring-submodules of free modules over finite commutative Frobenius rings"
 collection: publications
 category: manuscripts
-permalink: /publication/2018-on-counting-subring-submodules-of-free-modules-over
+permalink: /publication/2018-on-counting-subring-submodules-of-free-modules-over/
 date: 2018-12-28
 venue: "Designs, Codes and Cryptography"
 doi: "10.1007/s10623-017-0446-1"

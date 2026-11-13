@@ -2,7 +2,7 @@
 title: "Gröbner bases and combinatorics for binary codes"
 collection: publications
 category: manuscripts
-permalink: /publication/2008-grobner-bases-and-combinatorics-for-binary-codes
+permalink: /publication/2008-grobner-bases-and-combinatorics-for-binary-codes/
 date: 2008-12-27
 venue: "Applicable Algebra in Engineering, Communication and Computing"
 doi: "10.1007/s00200-008-0080-2"

@@ -2,7 +2,7 @@
 title: "On the Composition of Secret Sharing Schemes Related to codes"
 collection: publications
 category: manuscripts
-permalink: /publication/2014-on-the-composition-of-secret-sharing-schemes-related
+permalink: /publication/2014-on-the-composition-of-secret-sharing-schemes-related/
 date: 2014-12-28
 venue: "Discrete Mathematics, Algorithms and Applications 6(1)"
 doi: "10.1142/S179383091450013X"

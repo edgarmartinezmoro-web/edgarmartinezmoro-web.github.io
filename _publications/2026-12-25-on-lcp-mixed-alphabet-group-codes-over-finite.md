@@ -2,7 +2,7 @@
 title: "On LCP mixed-alphabet group codes over finite chain rings"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-on-lcp-mixed-alphabet-group-codes-over-finite
+permalink: /publication/2026-on-lcp-mixed-alphabet-group-codes-over-finite/
 date: 2026-12-25
 venue: "Discrete Mathematics, Algorithms and Applications"
 doi: "10.1142/S1793830925500648"

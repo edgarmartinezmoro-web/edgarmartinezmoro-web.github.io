@@ -2,7 +2,7 @@
 title: "On a class of repeated-root monomial-like abelian codes"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-on-a-class-of-repeated-root-monomial-like
+permalink: /publication/2015-on-a-class-of-repeated-root-monomial-like/
 date: 2015-12-24
 venue: "Journal of Algebra Combinatorics Discrete Structures and Applications 2(2), 1–10"
 doi: "10.13069/jacodesmath.17537"

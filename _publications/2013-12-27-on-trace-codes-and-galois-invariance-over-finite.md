@@ -2,7 +2,7 @@
 title: "On Trace Codes and Galois Invariance over Finite Commutative Chain Rings"
 collection: publications
 category: manuscripts
-permalink: /publication/2013-on-trace-codes-and-galois-invariance-over-finite
+permalink: /publication/2013-on-trace-codes-and-galois-invariance-over-finite/
 date: 2013-12-27
 venue: "Finite Fields and Their Applications 22, 114–121"
 doi: "10.1016/j.ffa.2013.03.004"

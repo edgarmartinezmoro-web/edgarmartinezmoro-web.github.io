@@ -2,7 +2,7 @@
 title: "Combinatorial Structure of Finite Fields with Two Dimensional Modulo Metrics"
 collection: publications
 category: conferences
-permalink: /publication/1999-combinatorial-structure-of-finite-fields-with-two-dimensional
+permalink: /publication/1999-combinatorial-structure-of-finite-fields-with-two-dimensional/
 date: 1999-12-28
 venue: "Cryptography and Coding, Lecture Notes in Computer Science 1746, 45–55"
 doi: "10.1007/3-540-46665-7_4"

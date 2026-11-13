@@ -2,7 +2,7 @@
 title: "An Algebraic View to Gradient Descent Decoding"
 collection: publications
 category: conferences
-permalink: /publication/2010-an-algebraic-view-to-gradient-descent-decoding
+permalink: /publication/2010-an-algebraic-view-to-gradient-descent-decoding/
 date: 2010-12-28
 venue: "IEEE Information Theory Workshop (ITW 2010), Dublin"
 doi: "10.1109/cig.2010.5592830"

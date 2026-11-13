@@ -3,7 +3,7 @@ title: "Basic Algebraic Geometric codes"
 collection: teaching
 category: phd
 type: "Course"
-permalink: /teaching/cimat-ag-codes
+permalink: /teaching/cimat-ag-codes/
 venue: "CIMAT"
 location: "Guanajuato, Mexico"
 when: "29 November 2008"

@@ -2,7 +2,7 @@
 title: "Compounding Secret Sharing Schemes"
 collection: publications
 category: manuscripts
-permalink: /publication/2004-compounding-secret-sharing-schemes
+permalink: /publication/2004-compounding-secret-sharing-schemes/
 date: 2004-12-28
 venue: "Australasian Journal of Combinatorics 30, 277–290"
 bibkey: "MartinezMoro2004Compounding"

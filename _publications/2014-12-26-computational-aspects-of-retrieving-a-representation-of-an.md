@@ -2,7 +2,7 @@
 title: "Computational aspects of retrieving a representation of an algebraic geometry code"
 collection: publications
 category: manuscripts
-permalink: /publication/2014-computational-aspects-of-retrieving-a-representation-of-an
+permalink: /publication/2014-computational-aspects-of-retrieving-a-representation-of-an/
 date: 2014-12-26
 venue: "Journal of Symbolic Computation"
 doi: "10.1016/j.jsc.2013.12.007"

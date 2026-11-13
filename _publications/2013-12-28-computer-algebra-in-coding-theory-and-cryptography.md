@@ -2,7 +2,7 @@
 title: "Computer algebra in coding theory and cryptography"
 collection: publications
 category: edited
-permalink: /publication/2013-computer-algebra-in-coding-theory-and-cryptography
+permalink: /publication/2013-computer-algebra-in-coding-theory-and-cryptography/
 date: 2013-12-28
 venue: "Special issue of Applicable Algebra in Engineering, Communication and Computing 24(3–4)"
 doi: "10.1007/s00200-013-0199-7"

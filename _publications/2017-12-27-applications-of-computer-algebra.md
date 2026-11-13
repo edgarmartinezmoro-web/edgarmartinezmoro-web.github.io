@@ -2,7 +2,7 @@
 title: "Applications of Computer Algebra"
 collection: publications
 category: edited
-permalink: /publication/2017-applications-of-computer-algebra
+permalink: /publication/2017-applications-of-computer-algebra/
 date: 2017-12-27
 venue: "Springer Proceedings in Mathematics & Statistics"
 doi: "10.1007/978-3-319-56932-1"

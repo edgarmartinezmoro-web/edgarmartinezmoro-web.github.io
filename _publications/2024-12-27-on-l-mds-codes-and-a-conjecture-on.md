@@ -2,7 +2,7 @@
 title: "On ℓ-MDS codes and a conjecture on infinite families of 1-MDS codes"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-on-l-mds-codes-and-a-conjecture-on
+permalink: /publication/2024-on-l-mds-codes-and-a-conjecture-on/
 date: 2024-12-27
 venue: "IEEE Transactions on Information Theory"
 doi: "10.1109/TIT.2024.3402745"

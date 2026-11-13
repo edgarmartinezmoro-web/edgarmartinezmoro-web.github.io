@@ -2,7 +2,7 @@
 title: "An application of Möller's algorithm to coding theory"
 collection: publications
 category: conferences
-permalink: /publication/2009-an-application-of-moller-s-algorithm-to-coding
+permalink: /publication/2009-an-application-of-moller-s-algorithm-to-coding/
 date: 2009-12-27
 venue: "Gröbner Bases, Coding, and Cryptography, Springer, 379–384"
 doi: "10.1007/978-3-540-93806-4_24"

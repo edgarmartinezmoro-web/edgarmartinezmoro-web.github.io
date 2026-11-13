@@ -2,7 +2,7 @@
 title: "Bases de Gröbner: aplicaciones a la codificación algebraica"
 collection: publications
 category: books
-permalink: /publication/2007-bases-de-grobner-aplicaciones-a-la-codificacion-algebraica
+permalink: /publication/2007-bases-de-grobner-aplicaciones-a-la-codificacion-algebraica/
 date: 2007-12-24
 venue: "Instituto Venezolano de Investigaciones Científicas"
 pdf: "/files/XXevm.pdf"

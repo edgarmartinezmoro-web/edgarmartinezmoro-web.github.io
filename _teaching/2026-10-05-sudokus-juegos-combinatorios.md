@@ -3,7 +3,7 @@ title: "Sudokus, juegos combinatorios y transmisión de la información"
 collection: teaching
 category: outreach
 type: "Research project for high-school students"
-permalink: /teaching/sudokus-juegos-combinatorios
+permalink: /teaching/sudokus-juegos-combinatorios/
 venue: "Bachillerato de Excelencia, IES Diego de Praves and University of Valladolid"
 location: "Valladolid, Spain"
 when: "2026–27"

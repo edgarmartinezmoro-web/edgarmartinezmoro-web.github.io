@@ -3,7 +3,7 @@ title: "Gröbner bases and algebraic coding theory"
 collection: teaching
 category: phd
 type: "Summer school course"
-permalink: /teaching/s3cm-groebner-coding
+permalink: /teaching/s3cm-groebner-coding/
 venue: "S3CM 2008: Algebraic coding theory"
 location: "Soria, Spain"
 when: "2 July 2008"

@@ -2,7 +2,7 @@
 title: "Multivariable codes in principal ideal polynomial quotient rings with applications to additive modular bivariate codes over F4"
 collection: publications
 category: manuscripts
-permalink: /publication/2018-multivariable-codes-in-principal-ideal-polynomial-quotient-rings
+permalink: /publication/2018-multivariable-codes-in-principal-ideal-polynomial-quotient-rings/
 date: 2018-12-24
 venue: "Journal of Pure and Applied Algebra"
 doi: "10.1016/j.jpaa.2017.04.007"

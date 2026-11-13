@@ -2,7 +2,7 @@
 title: "A transform approach to polycyclic and serial codes over rings"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-a-transform-approach-to-polycyclic-and-serial-codes
+permalink: /publication/2022-a-transform-approach-to-polycyclic-and-serial-codes/
 date: 2022-12-25
 venue: "Finite Fields and Their Applications"
 doi: "10.1016/j.ffa.2022.102014"

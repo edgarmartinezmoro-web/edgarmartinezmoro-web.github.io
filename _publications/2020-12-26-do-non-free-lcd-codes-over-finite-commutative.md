@@ -2,7 +2,7 @@
 title: "Do non-free LCD codes over finite commutative Frobenius rings exist?"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-do-non-free-lcd-codes-over-finite-commutative
+permalink: /publication/2020-do-non-free-lcd-codes-over-finite-commutative/
 date: 2020-12-26
 venue: "Designs, Codes and Cryptography"
 doi: "10.1007/s10623-019-00713-x"

@@ -2,7 +2,7 @@
 title: "Gröbner representations of binary matroids"
 collection: publications
 category: conferences
-permalink: /publication/2009-grobner-representations-of-binary-matroids
+permalink: /publication/2009-grobner-representations-of-binary-matroids/
 date: 2009-12-28
 venue: "AAECC-18, Lecture Notes in Computer Science 5527, 227–230"
 doi: "10.1007/978-3-642-02181-7_26"

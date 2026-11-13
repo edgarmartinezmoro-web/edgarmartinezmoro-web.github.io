@@ -3,7 +3,7 @@ title: "A case study of the combinatorics of linear codes with SAGE"
 collection: teaching
 category: phd
 type: "Summer school course"
-permalink: /teaching/acagm-summer-school
+permalink: /teaching/acagm-summer-school/
 venue: "Applied Computational Algebraic Geometric Modelling summer school (ACAGM 2011)"
 location: "Leuven, Belgium"
 when: "July 2011"

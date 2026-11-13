@@ -1,0 +1,46 @@
+---
+layout: single
+title: "Píldoras de matemática discreta"
+permalink: /teaching/matematica-discreta/pildoras/
+author_profile: true
+# One entry per video. To add a pill, copy an entry and change the fields.
+# Use "file" for a video stored in files/pildoras/md/, or "youtube" with the
+# video id (the part after watch?v=) to embed it from YouTube instead.
+videos:
+  - title: "Lo que sabe la matriz de adyacencia"
+    topic: "Grafos no dirigidos"
+    duration: "2:55"
+    file: "grafos-matriz-adyacencia"
+  - title: "Ínfimo y supremo de particiones"
+    topic: "Particiones y relaciones de equivalencia"
+    duration: "4:45"
+    file: "inf-sup-particiones"
+  - title: "Todos los enlaces o todos los servidores"
+    topic: "Recorridos: grafos eulerianos y hamiltonianos"
+    duration: "5:51"
+    file: "recorridos"
+---
+
+{% include base_path %}
+
+<p>Short videos (in Spanish) for the course <a href="{{ base_path }}/teaching/matematica-discreta/">Matemática Discreta</a>, University of Valladolid, 2026–27.</p>
+
+<ol class="pildoras">
+{% for v in page.videos %}
+  <li id="{{ v.file | default: v.youtube }}">
+    <h3>{{ v.title }}</h3>
+    <p><i>{{ v.topic }}</i>{% if v.duration %} · {{ v.duration }}{% endif %}</p>
+    {% if v.youtube %}
+    <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+      <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube-nocookie.com/embed/{{ v.youtube }}" title="{{ v.title }}" frameborder="0" allowfullscreen></iframe>
+    </div>
+    {% else %}
+    <video controls preload="none" style="width:100%;max-width:960px;" poster="{{ base_path }}/files/pildoras/md/{{ v.file }}.jpg">
+      <source src="{{ base_path }}/files/pildoras/md/{{ v.file }}.mp4" type="video/mp4">
+      <a href="{{ base_path }}/files/pildoras/md/{{ v.file }}.mp4">Download the video</a>
+    </video>
+    <p><a href="{{ base_path }}/files/pildoras/md/{{ v.file }}.mp4" download>Download (mp4)</a></p>
+    {% endif %}
+  </li>
+{% endfor %}
+</ol>

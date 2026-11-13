@@ -2,7 +2,7 @@
 title: "Galois LCD codes over mixed alphabets"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-galois-lcd-codes-over-mixed-alphabets
+permalink: /publication/2023-galois-lcd-codes-over-mixed-alphabets/
 date: 2023-12-27
 venue: "Finite Fields and Their Applications"
 doi: "10.1016/j.ffa.2022.102125"
