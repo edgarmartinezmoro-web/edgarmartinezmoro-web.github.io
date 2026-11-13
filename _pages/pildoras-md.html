@@ -7,6 +7,10 @@ author_profile: true
 # Use "file" for a video stored in files/pildoras/md/, or "youtube" with the
 # video id (the part after watch?v=) to embed it from YouTube instead.
 videos:
+  - title: "¿Qué es la matemática discreta?"
+    topic: "Introducción al curso"
+    duration: "10:32"
+    file: "que-es-matematica-discreta"
   - title: "Ínfimo y supremo de particiones"
     topic: "Particiones y relaciones de equivalencia"
     duration: "4:45"
@@ -29,7 +33,7 @@ videos:
 
 <p>Short videos (in Spanish) for the course <a href="{{ base_path }}/teaching/matematica-discreta/">Matemática Discreta</a>, University of Valladolid, 2026–27.</p>
 
-<ol class="pildoras">
+<ol class="pildoras" start="0">
 {% for v in page.videos %}
   <li id="{{ v.file | default: v.youtube }}">
     <h3>{{ v.title }}</h3>
