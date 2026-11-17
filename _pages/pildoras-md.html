@@ -4,90 +4,111 @@ title: "Píldoras de matemática discreta"
 permalink: /teaching/matematica-discreta/pildoras/
 author_profile: true
 # One entry per video. To add a pill, copy an entry and change the fields.
-# Use "file" for a video stored in files/pildoras/md/, or "youtube" with the
-# video id (the part after watch?v=) to embed it from YouTube instead.
+# "youtube" is the video id (the part after watch?v=); the player embeds it.
+# "file" is the mp4 in files/pildoras/md/, offered as a download (and used as
+# the player if there is no youtube id).
 videos:
   - title: "¿Qué es la matemática discreta?"
     topic: "Introducción al curso"
     duration: "10:32"
     file: "que-es-matematica-discreta"
+    youtube: "712TsZoAWpA"
   - title: "Cálculo proposicional"
     topic: "Lógica"
     duration: "7:48"
     file: "logica-calculo-proposicional"
+    youtube: "6JcRg3isJ4Q"
   - title: "El cuerpo finito con dos elementos y el álgebra de Boole"
     topic: "$\\mathbb{F}_2$ y álgebra de Boole"
     duration: "2:54"
     file: "f2-algebra-de-boole"
+    youtube: "m7YZd3y2I4c"
   - title: "Cálculo de predicados"
     topic: "Lógica"
     duration: "4:33"
     file: "calculo-de-predicados"
+    youtube: "EIYo_kbfozQ"
   - title: "Implicación lógica y demostraciones"
     topic: "Lógica"
     duration: "6:05"
     file: "implicacion-y-demostraciones"
+    youtube: "NevLu0V-UHg"
   - title: "Inducción matemática"
     topic: "Lógica"
     duration: "8:23"
     file: "induccion-matematica"
+    youtube: "LghiPvvjCQQ"
   - title: "Conjuntos"
     topic: "Teoría de conjuntos"
     duration: "3:50"
     file: "conjuntos"
+    youtube: "UVagvz7ArQ4"
   - title: "Combinatoria"
     topic: "Contar sin contar"
     duration: "8:46"
     file: "combinatoria"
+    youtube: "NDDHfuOWtOw"
   - title: "Ecuaciones de recurrencia"
     topic: "Cada término, a partir de los anteriores"
     duration: "7:21"
     file: "recurrencias"
+    youtube: "dToWL8b2-Qg"
   - title: "Relaciones binarias"
     topic: "Subconjuntos de un producto cartesiano $A\\times B$"
     duration: "6:33"
     file: "relaciones-binarias"
+    youtube: "_w8Map-cRY0"
   - title: "Relaciones de orden"
     topic: "Órdenes parciales, retículos y ordenación topológica"
     duration: "7:07"
     file: "relaciones-orden"
+    youtube: "J5bdo4w61Mg"
   - title: "Relaciones de equivalencia"
     topic: "Iguales en lo que nos interesa"
     duration: "5:44"
     file: "relaciones-equivalencia"
+    youtube: "NPdPZKQ69Wc"
   - title: "Ínfimo y supremo de particiones"
     topic: "Particiones y relaciones de equivalencia"
     duration: "4:45"
     file: "inf-sup-particiones"
+    youtube: "Zxwy4TLMxi0"
   - title: "Lo que sabe la matriz de adyacencia"
     topic: "Grafos no dirigidos"
     duration: "2:55"
     file: "grafos-matriz-adyacencia"
+    youtube: "7r5a6kXvL9o"
   - title: "Todos los enlaces o todos los servidores"
     topic: "Recorridos: grafos eulerianos y hamiltonianos"
     duration: "5:51"
     file: "recorridos"
+    youtube: "-sTw6BojeDY"
   - title: "La ruta más rápida"
     topic: "Grafos pesados y caminos mínimos"
     duration: "4:59"
     file: "caminos-minimos"
+    youtube: "8N2MLpyOCOM"
   - title: "Grafos dirigidos"
     topic: "Relaciones con sentido"
     duration: "5:37"
     file: "grafos-dirigidos"
+    youtube: "oFbQTx8Rk1s"
   - title: "Árboles"
     topic: "Conexos, sin ciclos y con el mínimo de aristas"
     duration: "6:13"
     file: "arboles"
+    youtube: "bSfNo6fRPs0"
   - title: "Aritmética modular"
     topic: "Restos, Euclides, congruencias y el teorema chino"
     duration: "7:03"
     file: "aritmetica-modular"
+    youtube: "NKMpbVXg6_k"
 ---
 
 {% include base_path %}
 
-<p>Short videos (in Spanish) for the course <a href="{{ base_path }}/teaching/matematica-discreta/">Matemática Discreta</a>, University of Valladolid, 2026–27.</p>
+<p>Short videos (in Spanish) for the course <a href="{{ base_path }}/teaching/matematica-discreta/">Matemática Discreta</a>, University of Valladolid, 2026–27.
+Also available as a <a href="https://www.youtube.com/playlist?list=PLGmHfc7ydOhE">YouTube playlist</a>.</p>
 
 <ol class="pildoras" start="0">
 {% for v in page.videos %}
@@ -95,16 +116,16 @@ videos:
     <h3>{{ v.title }}</h3>
     <p><i>{{ v.topic }}</i>{% if v.duration %} · {{ v.duration }}{% endif %}</p>
     {% if v.youtube %}
-    <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
-      <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube-nocookie.com/embed/{{ v.youtube }}" title="{{ v.title }}" frameborder="0" allowfullscreen></iframe>
+    <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:960px;">
+      <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube-nocookie.com/embed/{{ v.youtube }}" title="{{ v.title }}" frameborder="0" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
     </div>
-    {% else %}
+    {% elsif v.file %}
     <video controls preload="none" style="width:100%;max-width:960px;" poster="{{ base_path }}/files/pildoras/md/{{ v.file }}.jpg">
       <source src="{{ base_path }}/files/pildoras/md/{{ v.file }}.mp4" type="video/mp4">
       <a href="{{ base_path }}/files/pildoras/md/{{ v.file }}.mp4">Download the video</a>
     </video>
-    <p><a href="{{ base_path }}/files/pildoras/md/{{ v.file }}.mp4" download>Download (mp4)</a></p>
     {% endif %}
+    <p>{% if v.youtube %}<a href="https://www.youtube.com/watch?v={{ v.youtube }}&amp;list=PLGmHfc7ydOhE">Watch on YouTube</a>{% endif %}{% if v.youtube and v.file %} · {% endif %}{% if v.file %}<a href="{{ base_path }}/files/pildoras/md/{{ v.file }}.mp4" download>Download (mp4)</a>{% endif %}</p>
   </li>
 {% endfor %}
 </ol>
